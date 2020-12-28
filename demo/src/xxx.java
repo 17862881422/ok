@@ -1,3 +1,3 @@
 public class
-c {
+b {
 }
